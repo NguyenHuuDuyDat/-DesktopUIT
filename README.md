@@ -1,2 +1,3 @@
 # -DesktopUIT
  DesktopUIT
+git init
